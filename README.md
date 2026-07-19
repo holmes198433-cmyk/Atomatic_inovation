@@ -43,13 +43,3 @@ Compiling these micro-programs into seamless Windows applications using this rep
 Instead of relying on a single large software product, this strategy focuses on deploying dozens of hyper-focused micro-utilities. This diversified portfolio creates multiple independent, low-maintenance passive income streams.
 
 ---
-
-## 📄 License & Disclaimer
-
-### License
-This project is licensed under the **MIT License**. You are free to use, modify, and distribute this software for personal or commercial ventures, provided that the original copyright notice and permission notice are included in all copies.
-
-### Disclaimer
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-*Note: Users are solely responsible for ensuring that any web scraping, automation, or API usage conducted through this software complies with the target platform's Terms of Service and local data legal regulations.*
